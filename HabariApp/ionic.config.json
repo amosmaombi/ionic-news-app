@@ -1,0 +1,7 @@
+{
+  "name": "HabariApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
